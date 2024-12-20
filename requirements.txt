@@ -1,0 +1,8 @@
+dill
+fastapi[standard]
+numpy
+pandas
+pydantic
+scikit-learn
+mlflow
+xgboost
